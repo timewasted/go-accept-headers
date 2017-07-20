@@ -1,6 +1,8 @@
 go-accept-headers
 =================
 
+[![GoDoc](https://godoc.org/github.com/timewasted/go-accept-headers?status.svg)](https://godoc.org/github.com/timewasted/go-accept-headers)
+
 Easily handle HTTP Accept(-Charset|-Encoding|-Language) headers in Go.
 
 This was inspired by [goautoneg](https://bitbucket.org/ww/goautoneg/).
